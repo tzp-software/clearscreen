@@ -1,0 +1,3 @@
+[console_scripts]
+clear-screen = clearscreen.main:main
+

@@ -1,0 +1,11 @@
+MANIFEST.in
+README
+setup.py
+clearscreen/__init__.py
+clearscreen/clearscreen.py
+clearscreen/main.py
+clearscreen.egg-info/PKG-INFO
+clearscreen.egg-info/SOURCES.txt
+clearscreen.egg-info/dependency_links.txt
+clearscreen.egg-info/entry_points.txt
+clearscreen.egg-info/top_level.txt
